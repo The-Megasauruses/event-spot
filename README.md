@@ -1,1 +1,1 @@
-# event-spot
+# Event Spot
